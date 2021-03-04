@@ -1,0 +1,16 @@
+{
+  "name": "@ant-design/pro-settings",
+  "version": "1.0.0",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "module": "es/index.js",
+  "types": "lib/index.d.ts",
+  "files": [
+    "lib",
+    "es",
+    "dist"
+  ],
+  "dependencies": {
+    "@builder.io/react": "^1.1.41"
+  }
+}

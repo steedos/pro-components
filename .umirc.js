@@ -124,6 +124,10 @@ export default {
   menus: {
     '/components': [
       {
+        title: 'Steedos',
+        children: ['builder'],
+      },
+      {
         title: '架构设计',
         children: ['components.md'],
       },
